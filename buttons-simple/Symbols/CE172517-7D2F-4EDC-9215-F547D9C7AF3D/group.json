@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "CE172517-7D2F-4EDC-9215-F547D9C7AF3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 168,
+    "width": 586,
+    "x": 13,
+    "y": 95
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3B1EB61F-2BE2-43F0-9968-F58065F043BA"
+    },
+    {
+      "class": "text",
+      "id": "721F7F69-7C7C-47D0-BB83-ADAAEBBA0FDD"
+    },
+    {
+      "class": "text",
+      "id": "A01805E7-03F5-46A0-B762-11A2909ED588"
+    },
+    {
+      "class": "text",
+      "id": "CAEEB2CD-989F-473D-90DF-85B78F44F5A8"
+    },
+    {
+      "class": "text",
+      "id": "B3F2B545-31FF-4F3F-8888-CA4EECF8BF8F"
+    }
+  ],
+  "name": "Notes-Buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

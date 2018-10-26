@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "09200803-8D6D-4B56-9850-1EFD34691E51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 108,
+    "x": 767,
+    "y": 944
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/large",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E9E86D5B-88E5-4DB7-AAF1-7361431F58C0_symbolID",
+      "value": "0A8E30D4-33A5-49E9-9F42-71B760761469"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BE37F95D-BB09-4ABA-8E59-AA6DF673DDC7_symbolID",
+      "value": "6754E68C-1BA0-4ED2-8093-3264C6B1D03F"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "42830D80-14BC-40D9-80C4-BD60F7655C92_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "943414DF-8E7B-4FB1-A1EA-2E5A404C48ED_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0E1A118B-CD31-4620-8255-A54E844A7FB8_stringValue",
+      "value": "Hover"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D471216D-E2A7-431F-B025-873CF9A98DAC_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "96B55D07-16E0-4E2B-BC23-D1E4016D1048",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
